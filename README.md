@@ -12,3 +12,14 @@ Repo which contains an ever growing collection of resources that I believe to be
 ## Git
 
 [Database internals](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
+
+## Python
+
+### Bytecode
+
+Inside The Python Virtual Machine by Obi Ike-Nwosu
+[A Python Interpreter Written in Python](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+
+## Machine Learning
+
+[The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://hastie.su.domains/ElemStatLearn/)
