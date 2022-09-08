@@ -23,3 +23,7 @@ Inside The Python Virtual Machine by Obi Ike-Nwosu
 ## Machine Learning
 
 [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://hastie.su.domains/ElemStatLearn/)
+
+## Docker
+
+[Dive: Docker Layer inspection tool](https://github.com/wagoodman/dive)
