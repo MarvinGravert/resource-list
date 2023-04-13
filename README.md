@@ -7,6 +7,12 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
 
+## Streaming
+
+### WebRTC
+
+[Free WebRTC basics book](https://webrtcforthecurious.com/)
+
 ## Data Engineering
 
 ## Git
