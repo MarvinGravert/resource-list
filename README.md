@@ -33,6 +33,10 @@ Inside The Python Virtual Machine by Obi Ike-Nwosu
 
 [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://hastie.su.domains/ElemStatLearn/)
 
+### Time Series Analysis
+
+[Python libraries](https://robjhyndman.com/hyndsight/python_time_series.html)
+
 ## Docker
 
 [Dive: Docker Layer inspection tool](https://github.com/wagoodman/dive)
