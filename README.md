@@ -46,3 +46,7 @@ Inside The Python Virtual Machine by Obi Ike-Nwosu
 ## Docker
 
 [Dive: Docker Layer inspection tool](https://github.com/wagoodman/dive)
+
+## Ubuntu
+
+[Zsh/Bash startup files loading order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
