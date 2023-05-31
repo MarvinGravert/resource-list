@@ -6,6 +6,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
+* [Usage and Misusage of inheritance (follow links)](https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/)
 
 ## Streaming
 
@@ -50,3 +51,8 @@ Inside The Python Virtual Machine by Obi Ike-Nwosu
 ## Ubuntu
 
 [Zsh/Bash startup files loading order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
+
+## Web
+
+[Getting started with the web by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+[How does the internet work by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
