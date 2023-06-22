@@ -54,6 +54,10 @@ Inside The Python Virtual Machine by Obi Ike-Nwosu
 
 [Zsh/Bash startup files loading order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
 
+### Bash
+
+**set -e command to exit immediately after any command fails, instead of continuing**
+
 ## Web
 
 [Getting started with the web by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
