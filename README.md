@@ -53,6 +53,7 @@ Inside The Python Virtual Machine by Obi Ike-Nwosu
 
 [Dive: Docker Layer inspection tool](https://github.com/wagoodman/dive)
 [Build Cache Guidelie](https://docs.docker.com/build/cache/)
+[Dockerfile best practises](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 
 ## Ubuntu
 
