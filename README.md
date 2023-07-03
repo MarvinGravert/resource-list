@@ -67,7 +67,7 @@ Inside The Python Virtual Machine by Obi Ike-Nwosu
 
 ### Bash
 
-**set -e command to exit immediately after any command fails, instead of continuing**
+[Bash Strict mode for best debugging of shell scripts](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
 ## Web
 
