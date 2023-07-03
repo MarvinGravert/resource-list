@@ -7,6 +7,8 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
 * Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems by Martin Kleppmann
 * [Usage and Misusage of inheritance (follow links)](https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/)
+* [Twelve-factor App](https://12factor.net/)
+* [Software Architecture for Developers (book) by Simon Brown](https://softwarearchitecturefordevelopers.com/)
 
 ## Streaming
 
@@ -48,6 +50,10 @@ Inside The Python Virtual Machine by Obi Ike-Nwosu
 ### Time Series Analysis
 
 [Python libraries](https://robjhyndman.com/hyndsight/python_time_series.html)
+
+## Kubernetes
+
+[Kubernetes 101 by Jeff Geerling](https://github.com/geerlingguy/kubernetes-101)
 
 ## Docker
 
