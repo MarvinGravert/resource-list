@@ -46,6 +46,7 @@ Inside The Python Virtual Machine by Obi Ike-Nwosu
 ## Machine Learning
 
 [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://hastie.su.domains/ElemStatLearn/)
+[Whisper Speech-to-Text Web Self hosted](https://codeberg.org/pluja/web-whisper-plus/src/branch/main/README.md#user-content-self-hosting)
 
 ### Time Series Analysis
 
