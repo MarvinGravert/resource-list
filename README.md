@@ -61,8 +61,8 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [Dive: Docker Layer inspection tool](https://github.com/wagoodman/dive)
 * [Build Cache Guidelie](https://docs.docker.com/build/cache/)
 * [Dockerfile best practises](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-* [Docker Guide](https://github.com/mikeroyal/Docker-Guide]
-* [Docker Deep Dive Book](https://www.amazon.de/-/en/Nigel-Poulton/dp/1521822808)
+* [Docker Guide](https://github.com/mikeroyal/Docker-Guide)
+* Docker Deep Dive Book by Nigel Poulton
 
 ## Ubuntu
 
