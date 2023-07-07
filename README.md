@@ -73,13 +73,15 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [Bash Strict mode for best debugging of shell scripts](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
 ## Web
+
+* [Getting started with the web by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
+* [How does the internet work by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
+
 ## Cloud
 
-[Cloud Service Emulator for AWS](https://github.com/localstack/localstack)
+* [Cloud Service Emulator for AWS](https://github.com/localstack/localstack)
 
 ## Misc
 
 * [Docker hosted Browser accessable workspaces to learn topics Python, Ruby, Java, Ansible, etc.](https://github.com/bluxmit/alnoda-workspaces/tree/main)
 
-[Getting started with the web by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
-[How does the internet work by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
