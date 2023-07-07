@@ -14,63 +14,72 @@ Repo which contains an ever growing collection of resources that I believe to be
 
 ### WebRTC
 
-[Free WebRTC basics book](https://webrtcforthecurious.com/)
+* [Free WebRTC basics book](https://webrtcforthecurious.com/)
 
 ## Data Engineering
 
 ## Git
 
-[Database internals](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
+* [Database internals](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
 
 ## Python
 
 ## Language Features
 
-[Protocols PEP544](https://peps.python.org/pep-0544/)
+* [Protocols PEP544](https://peps.python.org/pep-0544/)
 
 ### Packaging
 
-[Soft Intro to packaging](https://py-pkgs.org/04-package-structure.html)
-[PEP 420 Namespace Packages](https://peps.python.org/pep-0420/)
-[PEP 302 Import Hooks](https://peps.python.org/pep-0302/)
-[Setup Tools: Package Discovery](https://setuptools.pypa.io/en/latest/pkg_resources.html)
-[PEP 660 Editable Installs](https://peps.python.org/pep-0660/)
+* [Soft Intro to packaging](https://py-pkgs.org/04-package-structure.html)
+* [PEP 420 Namespace Packages](https://peps.python.org/pep-0420/)
+* [PEP 302 Import Hooks](https://peps.python.org/pep-0302/)
+* [Setup Tools: Package Discovery](https://setuptools.pypa.io/en/latest/pkg_resources.html)
+* [PEP 660 Editable Installs](https://peps.python.org/pep-0660/)
 
 ### Software Architecture
 
 ### Bytecode
 
-Inside The Python Virtual Machine by Obi Ike-Nwosu
-[A Python Interpreter Written in Python](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+* Inside The Python Virtual Machine by Obi Ike-Nwosu
+* [A Python Interpreter Written in Python](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 
 ## Machine Learning
 
-[The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://hastie.su.domains/ElemStatLearn/)
-[Whisper Speech-to-Text Web Self hosted](https://codeberg.org/pluja/web-whisper-plus/src/branch/main/README.md#user-content-self-hosting)
+* [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://hastie.su.domains/ElemStatLearn/)
+* [Whisper Speech-to-Text Web Self hosted](https://codeberg.org/pluja/web-whisper-plus/src/branch/main/README.md#user-content-self-hosting)
 
 ### Time Series Analysis
 
-[Python libraries](https://robjhyndman.com/hyndsight/python_time_series.html)
+* [Python libraries](https://robjhyndman.com/hyndsight/python_time_series.html)
 
 ## Kubernetes
 
-[Kubernetes 101 by Jeff Geerling](https://github.com/geerlingguy/kubernetes-101)
+* [Kubernetes 101 by Jeff Geerling](https://github.com/geerlingguy/kubernetes-101)
 
 ## Docker
 
-[Dive: Docker Layer inspection tool](https://github.com/wagoodman/dive)
-[Build Cache Guidelie](https://docs.docker.com/build/cache/)
-[Dockerfile best practises](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+* [Dive: Docker Layer inspection tool](https://github.com/wagoodman/dive)
+* [Build Cache Guidelie](https://docs.docker.com/build/cache/)
+* [Dockerfile best practises](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+* [Docker Guide](https://github.com/mikeroyal/Docker-Guide]
+* [Docker Deep Dive Book](https://www.amazon.de/-/en/Nigel-Poulton/dp/1521822808)
 
 ## Ubuntu
 
-[Zsh/Bash startup files loading order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
+* [Zsh/Bash startup files loading order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
 
 ### Bash
 
-[Bash Strict mode for best debugging of shell scripts](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+* [Bash Strict mode for best debugging of shell scripts](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 
 ## Web
+## Cloud
+
+[Cloud Service Emulator for AWS](https://github.com/localstack/localstack)
+
+## Misc
+
+* [Docker hosted Browser accessable workspaces to learn topics Python, Ruby, Java, Ansible, etc.](https://github.com/bluxmit/alnoda-workspaces/tree/main)
 
 [Getting started with the web by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 [How does the internet work by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
