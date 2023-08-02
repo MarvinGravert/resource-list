@@ -71,6 +71,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 ### Bash
 
 * [Bash Strict mode for best debugging of shell scripts](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
+* [Bash Strict easy short explanation](https://gist.github.com/mohanpedala/1e2ff5661761d3abd0385e8223e16425)
 
 ## Web
 
