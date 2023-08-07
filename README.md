@@ -27,6 +27,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 ## Language Features
 
 * [Protocols PEP544](https://peps.python.org/pep-0544/)
+* [Python Database API PEP249](https://peps.python.org/pep-0249/)
 
 ### Packaging
 
