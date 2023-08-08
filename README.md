@@ -74,6 +74,10 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [Bash Strict mode for best debugging of shell scripts](http://redsymbol.net/articles/unofficial-bash-strict-mode/)
 * [Bash Strict easy short explanation](https://gist.github.com/mohanpedala/1e2ff5661761d3abd0385e8223e16425)
 
+#### ZSH
+
+* `docker completion zsh > ~/.oh-my-zsh/completions/_docker` => auto complete for docker compose. Other directories can be found under `$FPATH`
+
 ## Web
 
 * [Getting started with the web by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
