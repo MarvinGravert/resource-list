@@ -87,6 +87,9 @@ Repo which contains an ever growing collection of resources that I believe to be
 
 * [Cloud Service Emulator for AWS](https://github.com/localstack/localstack)
 
+## Managing
+
+* [Managing (bad) engineers guidelines](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
 ## Misc
 
 * [Docker hosted Browser accessable workspaces to learn topics Python, Ruby, Java, Ansible, etc.](https://github.com/bluxmit/alnoda-workspaces/tree/main)
