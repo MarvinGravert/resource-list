@@ -95,3 +95,9 @@ Repo which contains an ever growing collection of resources that I believe to be
 
 * [Docker hosted Browser accessable workspaces to learn topics Python, Ruby, Java, Ansible, etc.](https://github.com/bluxmit/alnoda-workspaces/tree/main)
 
+# Hardware
+
+## CPU
+
+* [Easy to follow explanation of CPUs](https://cpu.land)
+
