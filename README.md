@@ -64,7 +64,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [Dockerfile best practises](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
 * [Docker Guide](https://github.com/mikeroyal/Docker-Guide)
 * Docker Deep Dive Book by Nigel Poulton
-* [Label schema Convention](http://label-schema.org/rc1/)
+* [Open Container Initiative Image Specification](https://github.com/opencontainers/image-spec/blob/main/spec.md)
 
 ## Ubuntu
 
