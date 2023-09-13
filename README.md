@@ -16,6 +16,10 @@ Repo which contains an ever growing collection of resources that I believe to be
 
 * [Free WebRTC basics book](https://webrtcforthecurious.com/)
 
+## Database
+
+* [Database architecture, multiple parts, quick overview](https://scaleyourapp.com/database-architecture/)
+  
 ## Data Engineering
 
 ## Git
