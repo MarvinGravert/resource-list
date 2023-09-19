@@ -10,6 +10,10 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [Twelve-factor App](https://12factor.net/)
 * [Software Architecture for Developers (book) by Simon Brown](https://softwarearchitecturefordevelopers.com/)
 
+## Algorithms
+
+* The Algorithm Design Manual book
+
 ## Streaming
 
 ### WebRTC
