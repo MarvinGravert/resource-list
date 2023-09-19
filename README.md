@@ -2,6 +2,10 @@
 
 Repo which contains an ever growing collection of resources that I believe to be useful and high quality
 
+## Algorithms
+
+* The Algorithm Design Manual book
+
 ## Architecture
 
 * [System Design Primer](https://github.com/donnemartin/system-design-primer)
@@ -10,29 +14,57 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [Twelve-factor App](https://12factor.net/)
 * [Software Architecture for Developers (book) by Simon Brown](https://softwarearchitecturefordevelopers.com/)
 
-## Algorithms
+## Cloud
 
-* The Algorithm Design Manual book
-
-## Streaming
-
-### WebRTC
-
-* [Free WebRTC basics book](https://webrtcforthecurious.com/)
+* [Cloud Service Emulator for AWS](https://github.com/localstack/localstack)
 
 ## Database
 
 * [Database architecture, multiple parts, quick overview](https://scaleyourapp.com/database-architecture/)
-  
-## Data Engineering
+
+## Docker
+
+* [Dive: Docker Layer inspection tool](https://github.com/wagoodman/dive)
+* [Build Cache Guidelie](https://docs.docker.com/build/cache/)
+* [Dockerfile best practises](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
+* [Docker Guide](https://github.com/mikeroyal/Docker-Guide)
+* Docker Deep Dive Book by Nigel Poulton
+* [Open Container Initiative Image Specification](https://github.com/opencontainers/image-spec/blob/main/spec.md)
 
 ## Git
 
 * [Database internals](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
 
+## Hardware
+
+### CPU
+
+* [Easy to follow explanation of CPUs](https://cpu.land)
+
+## Kubernetes
+
+* [Kubernetes 101 by Jeff Geerling](https://github.com/geerlingguy/kubernetes-101)
+
+## Machine Learning
+
+* [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://hastie.su.domains/ElemStatLearn/)
+* [Whisper Speech-to-Text Web Self hosted](https://codeberg.org/pluja/web-whisper-plus/src/branch/main/README.md#user-content-self-hosting)
+
+### Time Series Analysis
+
+* [Python libraries](https://robjhyndman.com/hyndsight/python_time_series.html)
+
+## Managing
+
+* [Managing (bad) engineers guidelines](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
+
+## Misc
+
+* [Docker hosted Browser accessable workspaces to learn topics Python, Ruby, Java, Ansible, etc.](https://github.com/bluxmit/alnoda-workspaces/tree/main)
+
 ## Python
 
-## Language Features
+### Language Features
 
 * [Protocols PEP544](https://peps.python.org/pep-0544/)
 * [Python Database API PEP249](https://peps.python.org/pep-0249/)
@@ -45,34 +77,16 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [Setup Tools: Package Discovery](https://setuptools.pypa.io/en/latest/pkg_resources.html)
 * [PEP 660 Editable Installs](https://peps.python.org/pep-0660/)
 
-### Software Architecture
-
 ### Bytecode
 
 * Inside The Python Virtual Machine by Obi Ike-Nwosu
 * [A Python Interpreter Written in Python](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 
-## Machine Learning
+## Streaming
 
-* [The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, and Jerome Friedman](https://hastie.su.domains/ElemStatLearn/)
-* [Whisper Speech-to-Text Web Self hosted](https://codeberg.org/pluja/web-whisper-plus/src/branch/main/README.md#user-content-self-hosting)
+### WebRTC
 
-### Time Series Analysis
-
-* [Python libraries](https://robjhyndman.com/hyndsight/python_time_series.html)
-
-## Kubernetes
-
-* [Kubernetes 101 by Jeff Geerling](https://github.com/geerlingguy/kubernetes-101)
-
-## Docker
-
-* [Dive: Docker Layer inspection tool](https://github.com/wagoodman/dive)
-* [Build Cache Guidelie](https://docs.docker.com/build/cache/)
-* [Dockerfile best practises](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/)
-* [Docker Guide](https://github.com/mikeroyal/Docker-Guide)
-* Docker Deep Dive Book by Nigel Poulton
-* [Open Container Initiative Image Specification](https://github.com/opencontainers/image-spec/blob/main/spec.md)
+* [Free WebRTC basics book](https://webrtcforthecurious.com/)
 
 ## Ubuntu
 
@@ -84,7 +98,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [Bash Strict easy short explanation](https://gist.github.com/mohanpedala/1e2ff5661761d3abd0385e8223e16425)
 * [Differences between '\[\]' and '\[\[\]\]' in different shells](https://mywiki.wooledge.org/BashFAQ/031)
 
-#### ZSH
+### ZSH
 
 * `docker completion zsh > ~/.oh-my-zsh/completions/_docker` => auto complete for docker compose. Other directories can be found under `$FPATH`
 
@@ -92,21 +106,3 @@ Repo which contains an ever growing collection of resources that I believe to be
 
 * [Getting started with the web by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 * [How does the internet work by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
-
-## Cloud
-
-* [Cloud Service Emulator for AWS](https://github.com/localstack/localstack)
-
-## Managing
-
-* [Managing (bad) engineers guidelines](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
-## Misc
-
-* [Docker hosted Browser accessable workspaces to learn topics Python, Ruby, Java, Ansible, etc.](https://github.com/bluxmit/alnoda-workspaces/tree/main)
-
-# Hardware
-
-## CPU
-
-* [Easy to follow explanation of CPUs](https://cpu.land)
-
