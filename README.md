@@ -34,6 +34,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 ## Git
 
 * [Database internals](https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/)
+* [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## Hardware
 
