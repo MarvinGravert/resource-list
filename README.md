@@ -5,6 +5,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 ## Algorithms
 
 * The Algorithm Design Manual book
+* [Dictionary of all algorithms and data structures](https://xlinux.nist.gov/dads/)
 
 ## Architecture
 
