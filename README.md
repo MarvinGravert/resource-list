@@ -93,6 +93,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 ## Ubuntu
 
 * [Zsh/Bash startup files loading order](https://shreevatsa.wordpress.com/2008/03/30/zshbash-startup-files-loading-order-bashrc-zshrc-etc/)
+* [Mount a drive via SSH](https://askubuntu.com/a/871389)
 
 ### Bash
 
