@@ -59,6 +59,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 ## Managing
 
 * [Managing (bad) engineers guidelines](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
+* [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
 
 ## Misc
 
