@@ -60,6 +60,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 
 * [Managing (bad) engineers guidelines](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
 * [Software Engineering at Google](https://abseil.io/resources/swe-book/html/toc.html)
+* [DevEx: Developer KPIs](https://queue.acm.org/detail.cfm?id=3595878)
 
 ## Misc
 
