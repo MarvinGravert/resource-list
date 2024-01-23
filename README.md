@@ -71,6 +71,10 @@ Repo which contains an ever growing collection of resources that I believe to be
 
 ## Python
 
+### Jupyter
+
+[Jupyter auto reloading in VSCode](https://github.com/microsoft/vscode-jupyter/issues/4555#issuecomment-1126409695)
+
 ### Language Features
 
 * [Protocols PEP544](https://peps.python.org/pep-0544/)
