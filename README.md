@@ -14,6 +14,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [Usage and Misusage of inheritance (follow links)](https://solicited-thoughts.bearblog.dev/why-people-misuse-inheritance/)
 * [Twelve-factor App](https://12factor.net/)
 * [Software Architecture for Developers (book) by Simon Brown](https://softwarearchitecturefordevelopers.com/)
+* [Cloud Design Pattern (also Anti-Pattern on same webpage)[https://learn.microsoft.com/en-us/azure/architecture/patterns/]
 
 ## Cloud
 
@@ -74,6 +75,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 
 * [Protocols PEP544](https://peps.python.org/pep-0544/)
 * [Python Database API PEP249](https://peps.python.org/pep-0249/)
+* [dict() vs {} but very insightful look at CPython Code](https://madebyme.today/blog/python-dict-vs-curly-brackets/) 
 
 ### Packaging
 
