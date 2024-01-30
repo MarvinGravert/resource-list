@@ -99,6 +99,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 ### WebRTC
 
 * [Free WebRTC basics book](https://webrtcforthecurious.com/)
+* [Best practises for webhooks](https://webhooks.fyi/)
 
 ## Ubuntu
 
