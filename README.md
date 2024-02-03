@@ -32,6 +32,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [Docker Guide](https://github.com/mikeroyal/Docker-Guide)
 * Docker Deep Dive Book by Nigel Poulton
 * [Open Container Initiative Image Specification](https://github.com/opencontainers/image-spec/blob/main/spec.md)
+* [Cool small example of docker image optimization](https://bhupesh.me/publishing-my-first-ever-dockerfile-optimization-ugit/)
 
 ## Git
 
