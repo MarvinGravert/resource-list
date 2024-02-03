@@ -58,6 +58,10 @@ Repo which contains an ever growing collection of resources that I believe to be
 
 * [Python libraries](https://robjhyndman.com/hyndsight/python_time_series.html)
 
+## Linux
+
+* [Great article about shared libary versioning and naming](https://dcreager.net/2017/10/shared-library-versions/)
+
 ## Managing
 
 * [Managing (bad) engineers guidelines](https://vadimkravcenko.com/shorts/managing-bad-engineers/)
