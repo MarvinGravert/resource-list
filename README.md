@@ -99,6 +99,10 @@ Repo which contains an ever growing collection of resources that I believe to be
 * Inside The Python Virtual Machine by Obi Ike-Nwosu
 * [A Python Interpreter Written in Python](https://www.aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 
+## Site Reliability Engineering
+
+* [Google's recommanded SRE books](https://sre.google/books/)
+
 ## Streaming
 
 ### WebRTC
