@@ -129,3 +129,4 @@ Repo which contains an ever growing collection of resources that I believe to be
 
 * [Getting started with the web by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)
 * [How does the internet work by Firefox](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work)
+* [Intro to APIs and Guidelines by Google](https://google.aip.dev/1)
