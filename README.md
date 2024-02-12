@@ -23,6 +23,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 ## Database
 
 * [Database architecture, multiple parts, quick overview](https://scaleyourapp.com/database-architecture/)
+* [Blog about vector databases. Different products and usage considerations](https://thedataquarry.com/posts/vector-db-1/)
 
 ## Docker
 
