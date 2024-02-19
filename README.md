@@ -96,6 +96,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [PEP 302 Import Hooks](https://peps.python.org/pep-0302/)
 * [Setup Tools: Package Discovery](https://setuptools.pypa.io/en/latest/pkg_resources.html)
 * [PEP 660 Editable Installs](https://peps.python.org/pep-0660/)
+* [Interesting albeit opinionated blog post about package API design](https://benhoyt.com/writings/python-api-design/)
 
 ### Bytecode
 
