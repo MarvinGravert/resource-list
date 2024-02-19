@@ -62,6 +62,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 ## Linux
 
 * [Great article about shared libary versioning and naming](https://dcreager.net/2017/10/shared-library-versions/)
+* [Introduction to namespaces](https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html)
 
 ## Managing
 
