@@ -75,6 +75,7 @@ Repo which contains an ever growing collection of resources that I believe to be
 * [Minimal Reproducible Example](https://stackoverflow.com/help/minimal-reproducible-example)
 * [Guide to Network Programming](https://beej.us/guide/bgnet/html/)
 * [High-quality dev magazine with many many different topics (sadly not updated anymore)](https://increment.com/)
+* [hackernews but with options to filter top posts per day](https://hckrnews.com/)
 
 ## Python
 
