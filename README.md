@@ -88,7 +88,8 @@ Repo which contains an ever growing collection of resources that I believe to be
 
 * [Protocols PEP544](https://peps.python.org/pep-0544/)
 * [Python Database API PEP249](https://peps.python.org/pep-0249/)
-* [dict() vs {} but very insightful look at CPython Code](https://madebyme.today/blog/python-dict-vs-curly-brackets/) 
+* [dict() vs {} but very insightful look at CPython Code](https://madebyme.today/blog/python-dict-vs-curly-brackets/)
+* [Every dunder method](https://docs.python.org/3/reference/datamodel.html#special-method-names)
 
 ### Packaging
 
